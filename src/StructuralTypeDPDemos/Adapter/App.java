@@ -1,7 +1,7 @@
 package StructuralTypeDPDemos.Adapter;
 
 /**
- * 适配器模式,
+ * 适配器模式,(对象适配模式)
  */
 public class App {
     public static void main(String[] args) {
